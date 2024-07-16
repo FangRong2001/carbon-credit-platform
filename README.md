@@ -6,3 +6,5 @@
 ![首頁](/imgs/home-page.png)
 ![關於頁面](/imgs/about-page.png)
 
+## 取得專案 ##
+-- git clone git@github.com:README.md --
