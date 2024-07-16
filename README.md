@@ -6,13 +6,7 @@
 ![首頁](/imgs/home-page.png)
 ![關於頁面](/imgs/about-page.png)
 
-## 取得專案 ##
--- git clone git@github.com:README.md --
-
-## 開啟專案 ##
--- final_project/about.html --
-
-## 使用工具 ##
--- HTML5.3
-CSS
-JavaScript --
+## 技能樹 ##
+- HTML5.3
+- CSS
+- JavaScript
