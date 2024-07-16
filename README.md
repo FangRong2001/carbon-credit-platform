@@ -8,3 +8,6 @@
 
 ## 取得專案 ##
 -- git clone git@github.com:README.md --
+
+## 開啟專案 ##
+-- final_project/about.html --
