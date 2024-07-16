@@ -11,3 +11,8 @@
 
 ## 開啟專案 ##
 -- final_project/about.html --
+
+## 使用工具 ##
+-- HTML5.3
+CSS
+JavaScript --
